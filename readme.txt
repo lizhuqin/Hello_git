@@ -11,3 +11,8 @@ Test bug.
 fixed:
 00
 01
+
+fast:
+02
+03
+04
